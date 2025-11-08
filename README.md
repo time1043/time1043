@@ -1,19 +1,17 @@
 ## Hey, Oswin here 👋
 
 🔭 Currently working on: AI app development with LangChain/LangGraph  
-🌱 Learning: Advanced fullstack architecture  
-💬 Ask me about: Web Fullstack, AI, Rust, Python  
+🌱 Learning: Advanced fullstack architecture (including LangChain/LangGraph)  
+💬 Ask me about: Web Fullstack, AI, Python  
 📫 Reach me: [x](https://x.com/plktime1043)  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: Oswin - always win!
-
----
 
 ## Tech Stack
 
 ### Favorite
 
-[![](https://skillicons.dev/icons?i=js,ts,python,java,kotlin,tailwind,vscode,vim,github,docker,postgres)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=js,ts,python,java,kotlin,tailwind,vscode,vim,github,postgres,figma,docker)](https://skillicons.dev)
 
 ### Frontend
 
@@ -26,18 +24,16 @@
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt)
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?logo=redux&logoColor=white)
 ![Jotai](https://img.shields.io/badge/Jotai-007ACC?logo=jotai&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-333333?logoColor=61DAFB)
 ![Pinia](https://img.shields.io/badge/Pinia-FADB14?logo=pinia&logoColor=black)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?logo=reactquery&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-%233068b7.svg?logo=zod&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?logo=reacthookform&logoColor=white)
 ![Shadcn/ui](https://img.shields.io/badge/ShadCN/ui-%23000000?logo=shadcnui&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/Daisyui-5A0EF8?logo=daisyui&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?logo=mui&logoColor=white)
 ![PrimeVue](https://img.shields.io/badge/PrimeVue-black?style=flat&logo=PrimeVue)
 ![PrimeReact](https://img.shields.io/badge/PrimeReact-black?style=flat&logo=PrimeReact&logoColor=03C4E8)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?logo=ant-design&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-%233068b7.svg?logo=zod&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?logo=reacthookform&logoColor=white)
-
 ![Electron.js](https://img.shields.io/badge/Electron-191970?logo=Electron&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1C1E24?logo=expo&logoColor=#D04A37)
@@ -91,6 +87,8 @@
 ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?logo=scrapy&logoColor=white)
 ![SymPy](https://img.shields.io/badge/SymPy-3B5526?logo=sympy&logoColor=white)
 ![Manim](https://img.shields.io/badge/Manim-2C4F7C?logo=manim&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FF9900?logo=huggingface&logoColor=white)
 
 ## GitHub Stats
 
