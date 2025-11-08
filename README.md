@@ -31,7 +31,6 @@
 ![Shadcn/ui](https://img.shields.io/badge/ShadCN/ui-%23000000?logo=shadcnui&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/Daisyui-5A0EF8?logo=daisyui&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?logo=mui&logoColor=white)
-![PrimeVue](https://img.shields.io/badge/PrimeVue-black?style=flat&logo=PrimeVue)
 ![PrimeReact](https://img.shields.io/badge/PrimeReact-black?style=flat&logo=PrimeReact&logoColor=03C4E8)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?logo=ant-design&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?logo=Electron&logoColor=white)
