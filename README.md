@@ -36,7 +36,6 @@
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?logo=ant-design&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?logo=Electron&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/Expo-1C1E24?logo=expo&logoColor=#D04A37)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-346ac1?logo=android%20studio&logoColor=white)
 
 ### Backend
@@ -68,7 +67,6 @@
 ![Playwright](https://img.shields.io/badge/-Playwright-%232EAD33?logo=playwright&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?logo=swagger&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?logo=apollo-graphql)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101)
 
 ### LLM / AI 🔥
